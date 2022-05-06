@@ -1,0 +1,47 @@
+.fruits{
+    border: 2px solid brown;
+    text-align: center;
+    background-color: peachpuff;
+    font-family: Chilanka;
+    padding: 20px;
+    margin: 20px;
+    color: #ff00ef;
+}
+.Cars{
+    border: 20px solid chartreuse;
+    border-style: dot-dot-dash;
+    font-family: FreeSans;
+    padding: 25px;
+    margin: 50px;
+    background-color: black;
+    color: ghostwhite;
+    text-align: center;
+}
+.FRUITS{
+    background-color: red;
+    color: gray(50);
+    border: 20px solid green;
+    text-align: center;
+
+}
+#Kenya{
+    background-color: red;
+    border: 20px solid green;
+    font-family: Gargi;
+    margin: 60px;
+    padding: 50px;
+}
+#Uganda{
+    background-color: black;
+    color: yellow;
+    border: 30px solid red;
+    padding: 30px;
+    margin:60px;
+}
+#Tanzania{
+    background-color: green;
+    color: black;
+    border: 20px solid yellow;
+    margin: 60px;
+    padding: 40px;
+}

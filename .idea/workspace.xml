@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="GROUP_BY_SEVERITY" value="true" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f706402-147d-4446-a1fc-45e4b3f09af4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2895OkdlliBdims1QmktpxrX8Mh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Images" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Images" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f706402-147d-4446-a1fc-45e4b3f09af4" name="Default Changelist" comment="" />
+      <created>1650615930591</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650615930591</updated>
+      <workItem from="1650615933715" duration="4000" />
+      <workItem from="1650615964999" duration="926000" />
+      <workItem from="1650617994665" duration="5381000" />
+      <workItem from="1650874660102" duration="8432000" />
+      <workItem from="1650961277033" duration="33000" />
+      <workItem from="1650961516861" duration="9363000" />
+      <workItem from="1651047333550" duration="9894000" />
+      <workItem from="1651134445008" duration="9550000" />
+      <workItem from="1651652514996" duration="549000" />
+      <workItem from="1651653070622" duration="545000" />
+      <workItem from="1651653618959" duration="23000" />
+      <workItem from="1651653646003" duration="66000" />
+      <workItem from="1651653734230" duration="4162000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="107" y="45" width="800" height="671" key="#Images" timestamp="1651143313543">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state x="107" y="45" width="800" height="671" key="#Images/0.0.1024.768@0.0.1024.768" timestamp="1651143313543" />
+    <state x="107" y="45" width="800" height="671" key="#Notifications" timestamp="1651653017563">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state x="107" y="45" width="800" height="671" key="#Notifications/0.0.1024.768@0.0.1024.768" timestamp="1651653017563" />
+    <state x="0" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1651654076333">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state x="0" y="38" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1024.768@0.0.1024.768" timestamp="1651654076333" />
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup" timestamp="1651653962593">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state width="254" height="198" key="RunAnythingAction_Filter_Popup/0.0.1024.768@0.0.1024.768" timestamp="1651653962593" />
+    <state x="195" y="211" key="com.intellij.ide.util.TipDialog" timestamp="1651825064216">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state x="195" y="211" key="com.intellij.ide.util.TipDialog/0.0.1024.768@0.0.1024.768" timestamp="1651825064216" />
+    <state x="176" y="170" key="run.anything.popup" timestamp="1651653962603">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state x="176" y="170" key="run.anything.popup/0.0.1024.768@0.0.1024.768" timestamp="1651653962603" />
+    <state x="175" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1650964410044">
+      <screen x="0" y="0" width="1024" height="768" />
+    </state>
+    <state x="175" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1024.768@0.0.1024.768" timestamp="1650964410044" />
+  </component>
+</project>
